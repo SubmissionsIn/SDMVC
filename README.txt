@@ -13,8 +13,8 @@ train_ae = False
 
 data = 'BDGP'     
 # the tested datasets contain:
-# 'MNIST_USPS_COMIC'           (CAE)
-# 'Sigle_Three_Fmnist_Test'    (CAE)
+# 'MNIST_USPS'                 (CAE)
+# 'Fashion_MV'                 (CAE)
 # 'BDGP'                       (FAE)
 # 'Caltech101_20'              (FAE)
 
