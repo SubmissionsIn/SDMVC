@@ -1,3 +1,5 @@
+Accepted by IEEE TKDE
+
 Install Keras v2.0, scikit-learn
 sudo pip install keras scikit-learn
 
@@ -11,10 +13,10 @@ train_ae = False
 
 data = 'BDGP'     
 # the tested datasets contain:
-# 'MNIST_USPS_COMIC'        (CAE)
+# 'MNIST_USPS_COMIC'           (CAE)
 # 'Sigle_Three_Fmnist_Test'    (CAE)
-# 'BDGP'                                 (FAE)
-# 'Caltech101_20'                   (FAE)
+# 'BDGP'                       (FAE)
+# 'Caltech101_20'              (FAE)
 
 # run the code：
 python main.py
