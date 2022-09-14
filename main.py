@@ -114,7 +114,7 @@ if __name__ == "__main__":
     # Train_ae = True  # The stability of AE’s pre-training and K-means might be the bottleneck for AE/K-means based MVC
     Train_ae = False   # The reported results are the average values after pre-training
 
-    AR = 0.90          # Aligned Ratio, e.g., 90%
+    AR = 0.90          # Aligned Ratio, e.g., 90%, the threshold that determines the stop condition
     Coo = 1            # Unified P
     View = 1           # View_first SetC for DEMVC
     # K123q = View     # DEMVC
