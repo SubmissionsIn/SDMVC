@@ -1,5 +1,14 @@
 Accepted by IEEE TKDE
 
+# citation
+@article{xu2022self,
+  title={Self-supervised discriminative feature learning for deep multi-view clustering},
+  author={Xu, Jie and Ren, Yazhou and Tang, Huayi and Yang, Zhimeng and Pan, Lili and Yang, Yang and Pu, Xiaorong and Philip, S Yu and He, Lifang},
+  journal={IEEE Transactions on Knowledge and Data Engineering},
+  year={2022},
+  note={doi:\href{http://dx.doi.org/10.1109/TKDE.2022.3193569}{10.1109/TKDE.2022.3193569}}
+}
+
 Install Keras v2.0, scikit-learn
 sudo pip install keras scikit-learn
 
