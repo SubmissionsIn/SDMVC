@@ -1,4 +1,4 @@
-Accepted by IEEE TKDE
+Accepted by IEEE TKDE.
 
 # citation
 @article{xu2022self,
