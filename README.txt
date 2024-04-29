@@ -1,12 +1,15 @@
 Accepted by IEEE TKDE.
 
 # citation
-@article{xu2022self,
-  title={Self-supervised discriminative feature learning for deep multi-view clustering},
+@ARTICLE{9839616,
   author={Xu, Jie and Ren, Yazhou and Tang, Huayi and Yang, Zhimeng and Pan, Lili and Yang, Yang and Pu, Xiaorong and Yu, Philip S. and He, Lifang},
-  journal={IEEE Trans. Knowl. Data Eng.},
-  year={2022},
-  note={doi:\href{http://dx.doi.org/10.1109/TKDE.2022.3193569}{10.1109/TKDE.2022.3193569}}
+  journal={IEEE Transactions on Knowledge and Data Engineering}, 
+  title={Self-Supervised Discriminative Feature Learning for Deep Multi-View Clustering}, 
+  year={2023},
+  volume={35},
+  number={7},
+  pages={7470-7482},
+  doi={10.1109/TKDE.2022.3193569}
 }
 
 Install Keras v2.0, scikit-learn
